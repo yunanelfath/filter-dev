@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App{
+  display: inline-block;
+}
+.App .item {
+  display: inline-block;
+  margin: 10px 20px;
+  padding: 10px;
+  border: 1px solid #ebebeb;
+}
+.App .item p{
+  display: inline-block;
+}
+.item-hide{
+  display: none !important;
+}
